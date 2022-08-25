@@ -13,5 +13,3 @@ Copy the code bellow to use this repo
 git clone https://github.com/ahmadiqball/nextjs-meetup-page.git
 npm install
 npm run dev
-
-
